@@ -1,5 +1,6 @@
 {
-  "spider":"https://agit.ai/qq275666857/jar/raw/branch/master/0810.jar",
+  "spider":"https://agit.ai/guozu616/TVbox/raw/branch/main/0810.jar",
+  //"spider":"https://agit.ai/qq275666857/jar/raw/branch/master/0810.jar",
   //"spider":"https://gitea.com/ybcyys/TVBOX/src/branch/main/jar/0718.jar",
 //"spider":"https://gitea.com/wints/jk/raw/branch/main/qj718_spider.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTEwNDM0My50eHQK"]}]}],
