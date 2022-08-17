@@ -146,7 +146,7 @@
     {"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/6d.json"},
     {"key":"csp_xpath_xiangdao","name":"农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/xiangdao.json"},
     {"key":"csp_xpath_lkvod","name":"耐看点播(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/lkvod.json"},
-
+    {"key":"csp_xpath_mjc","name":"美剧虫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/meijuchong.json"},
     {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/dm84.json"},
     {"key":"csp_xpath_17skr","name":"路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/17skr.json"},
     {"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ybcyys/TVBOX/raw/branch/main/XP/bttwoo.json"},
