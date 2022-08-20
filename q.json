@@ -191,7 +191,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "8cd1030e6b3c45749966665230505ad6"
+		"ext": "b1f13d705ec14661a14a575fde303bb0"
 	}, {
 		"key": "FindZY",
 		"name": "🐞找资源",
@@ -200,7 +200,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "8cd1030e6b3c45749966665230505ad6"
+		"ext": "b1f13d705ec14661a14a575fde303bb0"
 	}, {
 		"key": "push_agent",
 		"name": "🐞推送",
@@ -209,7 +209,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "8cd1030e6b3c45749966665230505ad6"
+		"ext": "b1f13d705ec14661a14a575fde303bb0"
 	}, {
 		"key": "csp_xpath_huya",
 		"name": "🐯虎牙(XP)",
