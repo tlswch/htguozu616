@@ -1,5 +1,6 @@
 {
-	"spider": "https://agit.ai/guozu616/TVbox/raw/branch/main/jar/818.jar",
+	//"spider": "https://agit.ai/guozu616/TVbox/raw/branch/main/jar/818.jar",
+	"spider":"http://刚刚.live/jar/",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -35,7 +36,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": ""
-		"jar":"http://刚刚.live/jar/"
 	}, {
 		"key": "Smdyy_spider",
 		"name": "🐞神马影视",
