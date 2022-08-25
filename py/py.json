@@ -4,8 +4,8 @@
 		"name": "哔哩",
 		"type": 3,
 		"api": "py_bilibili",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_bilibili.py"
 	}, {
