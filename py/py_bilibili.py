@@ -32,7 +32,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"搞笑": "搞笑",
 			"假窗-白噪音": "窗+白噪音",
 			"演唱会": "演唱会"
-        }
+		}
 		classes = []
 		for k in cateManual:
 			classes.append({
