@@ -7,17 +7,35 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_bilibili.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_bilibili.py"
 	}, {
-        "key": "py_huya",
-        "name": "🔥虎牙",
-        "type": 3,
-        "api": "py_douyu",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_huya.py"
-      },{
+		"key": "py_bilivd",
+		"name": "B站(带搜索)",
+		"type": 3,
+		"api": "py_bilivd",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_bilivd.py"
+	},{
+		"key": "py_3qu",
+		"name": "3QU",
+		"type": 3,
+		"api": "py_3qu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_3qu.py"
+	},{
+		"key": "py_cctv",
+		"name": "央视",
+		"type": 3,
+		"api": "py_cctv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cctv.py"
+	}, {
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
@@ -25,8 +43,17 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_czspp.py"
-	}, {
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_czspp.py"
+	},{
+		"key": "py_cyys",
+		"name": "创艺",
+		"type": 3,
+		"api": "py_cyys",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cyys.py"
+	},{
 		"key": "py_zxzj",
 		"name": "在线之家",
 		"type": 3,
@@ -34,8 +61,17 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_zxzj.py"
-	}, {
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_zxzj.py"
+	},{
+		"key": "py_wmkk",
+		"name": "完美看看(半残)",
+		"type": 3,
+		"api": "py_wmkk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_wmkk.py"
+	},{
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
@@ -43,8 +79,17 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_voflix.py"
-	},{
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_voflix.py"
+	}, {
+		"key": "py_bilimd",
+		"name": "B站影视",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_bilimd.py"
+	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
 		"type": 3,
@@ -52,8 +97,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_gimytv.py"
-	},{
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_gimytv.py"
+	}, {
 		"key": "py_genmov",
 		"name": "跟剧",
 		"type": 3,
@@ -61,7 +106,25 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_genmov.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_genmov.py"
+	}, {
+		"key": "py_huya",
+		"name": "虎牙",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_huya.py"
+	}, {
+		"key": "py_douyu",
+		"name": "斗鱼",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_douyu.py"
 	}, {
 		"key": "py_cokemv",
 		"name": "COKE",
@@ -70,7 +133,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_cokemv.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cokemv.py"
 	}, {
 		"key": "py_xmaomi",
 		"name": "猫咪",
@@ -79,7 +142,25 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_xmaomi.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_xmaomi.py"
+	}, {
+		"key": "py_gitcafe",
+		"name": "小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_gitcafe.py"
+	}, {
+		"key": "py_yiso",
+		"name": "易搜",
+		"type": 3,
+		"api": "py_yiso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_yiso.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -88,7 +169,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_zhaozy.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -97,7 +178,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_pansou.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_pansou.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
@@ -106,25 +187,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_ali.py"
-	}, {
-		"key": "py_玄学",
-		"name": "玄学",
-		"type": 3,
-		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/xuanxue.py"
-	},{
-		"key": "py_zhongyi",
-		"name": "中医",
-		"type": 3,
-		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_zhongyi.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
