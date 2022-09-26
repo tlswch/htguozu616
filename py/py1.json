@@ -144,6 +144,15 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_xmaomi.py"
 	}, {
+		"key": "py_star",
+		"name": "Py | 星光影视",
+		"type": 3,
+		"api": "py_star",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_star.py"
+	},	{
 		"key": "py_gitcafe",
 		"name": "小纸条",
 		"type": 3,
