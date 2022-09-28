@@ -81,7 +81,7 @@
 {"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
 {"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},
-{"key": "DJ-XP-JRS低调看","name": "⚽JRS低调看(XP)","type": 3,"api": "csp_XPathMac","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/ddk.json"},
+{"key": "DJ-XP-JRS低调看","name": "⚽JRS低调看(XP)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/ddk.json"},
 {"key":"DJ-XB-花猫TV","name": "花猫TV（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/dongji2/bb/raw/master/custom/01-花猫TV.json"},
 {"key":"DJ-XP-JRS直播","name":"JRS直播（XP）","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/jrskanv2.json"},
 {"key":"DJ-XP-88看球","name": "88看球（XP）","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/dongji2/tb/raw/master/xp/88kqv4.json"},
