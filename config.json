@@ -26,7 +26,7 @@
 //{"key": "csp_虎牙","name": "虎牙(爬虫)","type": 3,"api": "csp_JustLive","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "huya"},
 //{"key": "csp_斗鱼","name": "斗鱼(爬虫)","type": 3,"api": "csp_JustLive","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "douyu"},
 {"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
-{"key":"Xxys","name":"小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Xxys","name":"小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
