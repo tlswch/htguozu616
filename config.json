@@ -82,7 +82,14 @@
 {"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},
 {"key": "DJ-XP-JRS低调看","name": "⚽JRS低调看(XP)","type": 3,"api": "csp_XPathMac","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/ddk.json"},
-
+{"key":"DJ-XB-花猫TV","name": "花猫TV（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/dongji2/bb/raw/master/custom/01-花猫TV.json"},
+{"key":"DJ-XP-JRS直播","name":"JRS直播（XP）","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/jrskanv2.json"},
+{"key":"DJ-XP-88看球","name": "88看球（XP）","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/dongji2/tb/raw/master/xp/88kqv4.json"},
+{"key":"DJ-XP-低调看","name":"低调看（XP）","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/dongji2/tb/raw/master/xp/ddk.json"},
+{"key":"DJ-XP-优直播","name":"优直播（XP）","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/dongji2/tb/raw/master/xp/yzb.json"},
+{"key":"DJ-XP-零点吧","name":"零点吧（XP）","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/dongji2/tb/raw/master/xp/ldb.json"},
+{"key": "DJ-XYQ-一七看","name":"🍀一七看（XYQ）","type": 3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable": 0,"ext": "https://gitee.com/dongji2/tb/raw/master/xyq/17k.json"},
+{"key": "DJ-XYQ-三一零","name":"🍀三一零（XYQ）","type": 3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable": 0,"ext": "https://gitee.com/dongji2/tb/raw/master/xyq/310.json"},
 
 //{"key": "Bili","name": "B站","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
 //{"key": "csp_Bliyc","name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
