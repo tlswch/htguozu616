@@ -1,5 +1,14 @@
 {
 	"sites": [{
+		"key": "py_kunyu77",
+		"name": "酷云77",
+		"type": 3,
+		"api": "py_kunyu77",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_kunyu77.py"
+	}, {
 		"key": "py_bilibili",
 		"name": "哔哩",
 		"type": 3,
@@ -35,7 +44,16 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cctv.py"
-	}, {
+	},{
+		"key": "py_cctv_full",
+		"name": "央视大全",
+		"type": 3,
+		"api": "py_cctv_full",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cctv_full.py"
+	},{
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
@@ -187,7 +205,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_ali.py"
+		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
@@ -264,7 +282,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3Rhbm5pbmctc2Vydjo5NTI3L0NvbnRlbnQvY2F0LzIyMDYwMS9saXZlLmpz"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]
 		}]
 	}],
 	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "letv", "tudou", "pptv", "mgtv", "wasu", "bilibili", "leduo", "fq3", "fq4", "xueren", "duoduo", "duoduozy", "miaoparty", "miaoparty2", "miaoparty3", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
