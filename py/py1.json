@@ -117,6 +117,33 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_huya.py"
 	}, {
+		"key": "py_jrk",
+		"name": "体育直播1",
+		"type": 3,
+		"api": "py_jrk",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_jrk.py"
+	}, {
+		"key": "py_yytv",
+		"name": "体育直播2",
+		"type": 3,
+		"api": "py_yytv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_yytv.py"
+	}, {
+		"key": "py_qie",
+		"name": "企鹅体育",
+		"type": 3,
+		"api": "py_qie",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_qie.py"
+	}, 	{
 		"key": "py_douyu",
 		"name": "斗鱼",
 		"type": 3,
