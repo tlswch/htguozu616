@@ -108,10 +108,10 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_中国文化.py"
 	}, {
-		"key": "中医药",
+		"key": "py_中医药",
 		"name": "中医药",
 		"type": 3,
-		"api": "中医药",
+		"api": "py_中医药",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
