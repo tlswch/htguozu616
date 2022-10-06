@@ -80,7 +80,16 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_voflix.py"
-	}, {
+	},{
+		"key": "py_lezhu",
+		"name": "乐猪影视",
+		"type": 3,
+		"api": "py_lezhu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_lezhu.py"
+	},{
 		"key": "py_bilimd",
 		"name": "B站影视",
 		"type": 3,
@@ -89,6 +98,24 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_bilimd.py"
+	},{
+		"key": "py_中国文化",
+		"name": "中国文化",
+		"type": 3,
+		"api": "py_中国文化",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_中国文化.py"
+	}, {
+		"key": "中医药",
+		"name": "中医药",
+		"type": 3,
+		"api": "中医药",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_中医药.py"
 	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
@@ -117,6 +144,15 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_huya.py"
 	}, {
+		"key": "py_douyu",
+		"name": "斗鱼",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_douyu.py"
+	},{
 		"key": "py_jrk",
 		"name": "体育直播1",
 		"type": 3,
@@ -144,15 +180,6 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_qie.py"
 	}, 	{
-		"key": "py_douyu",
-		"name": "斗鱼",
-		"type": 3,
-		"api": "py_douyu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_douyu.py"
-	}, {
 		"key": "py_cokemv",
 		"name": "COKE",
 		"type": 3,
