@@ -17,7 +17,7 @@
   // 二次截取后
   "jiequhou": "空",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"module-items",
+  "jiequshuzuqian": "class=\"module-item-cover",
   // 列表数组的后关键词
   "jiequshuzuhou": "<div class=\"loading\"",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
