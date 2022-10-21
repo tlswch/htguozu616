@@ -39,7 +39,7 @@
 {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dceebae47a1a4b0f887a632f27e81c35"},
  {"key": "Zhaozy","name": "资源","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
  {"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
- {"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"}
+ {"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
 
 
 
