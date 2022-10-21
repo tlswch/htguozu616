@@ -33,7 +33,7 @@
 {"key":"t4public", "name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", "searchable":1, "quickSearch":1,"filterable":0},
 {"key": "T4","name": "T4爬虫集","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Zxzj","name": "在线之家","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //阿里系
 {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dceebae47a1a4b0f887a632f27e81c35"},
