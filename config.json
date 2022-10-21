@@ -49,7 +49,7 @@
 {"key": "Zhaozy","name": "资源","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
 {"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
 {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"}
+{"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
 {"key":"360","name": "360(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
