@@ -1,5 +1,5 @@
 {
-  "spider":"https://agit.ai/guozu616/TVbox/raw/branch/main/jar/Gx.jar;md5; D55085E319FE2A2EEFA832A2BFF7080E",
+  "spider":"https://agit.ai/guozu616/TVbox/raw/branch/main/jar/1021.jar;md5;0F93B2FDF126DA75CFFB74ADAF33DA82",
 
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYWxsb25teW1pbmQvSGFuZ1VwL21haW4vQ2F0VFYvQ0IvdHYvYmMudHh0"]}]}],
