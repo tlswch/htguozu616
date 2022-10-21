@@ -278,8 +278,12 @@
 {"key":"csp_biubiu_红领巾","name":"🥒红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXB/红领巾.json"},
 //{"key":"csp_xpath_电影牛","name":"🦏电影牛","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/电影牛.json"},
 //{"key":"csp_biubiu_米来影视","name":"🐌米来影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/米来影视.json"},
-//{"key":"csp_biubiu_旧梦影视","name":"🐌旧梦影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/旧梦影视.json"},
+{"key":"csp_biubiu_稀饭影视","name":"🐌稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXB/%e7%a8%80%e9%a5%ad%e5%bd%b1%e8%a7%86.json"},
 //{"key":"csp_xpath_蚂蚁影视","name":"🐜蚂蚁影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/蚂蚁影视.json"},
+    
+    
+    
+    
     ## XPath系列
     {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/zxzj2.json"},
     {"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/libv.json"},
