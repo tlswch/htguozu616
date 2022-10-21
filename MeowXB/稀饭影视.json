@@ -7,9 +7,9 @@
   "fenlei": "电视剧$/yingpianshow/lianxuju--------#电影$/yingpianshow/dianying--------#综艺$/yingpianshow/zongyi--------#动漫$/yingpianshow/dongman--------",
   "houzhui": "---.html",
 
-  "shifouercijiequ": "0",
+  "shifouercijiequ": "1",
   "jiequqian": "class=\"module-items",
-  "jiequhou": "空",
+  "jiequhou": "class=\"module-footer",
   "jiequshuzuqian": "<a",
   "jiequshuzuhou": "alt=\"",
   "tupianqian": "data-src=\"",
