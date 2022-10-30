@@ -1,5 +1,5 @@
 {"spider":"./jar/xBPQ.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2FnaXQuYWkvZ3VvenU2MTYvVFZib3gvcmF3L2JyYW5jaC9tYWluL3R2L2NoaW5hdHYudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/guozu616/TVbox/raw/branch/main/tv/chinatv.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
