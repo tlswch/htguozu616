@@ -151,6 +151,7 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/kuqimv.json"},
 
 //XBPQ-Python
+{"key":"csp_xbpq_石榴","name":"石榴电影(XP)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/shiliudy.json"},
 {"key": "csp_xbpq_万能","name":"🐯万能影视(DR)","type":3,"api":"./drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B8%87%E8%83%BD%E5%BD%B1%E8%A7%86.js"},
 {"key": "csp_xbpq_cokemv","name": "🦜cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/alantang77/tangtv/-/raw/master/XBPQ/cokemv_xBPQ_.json"},
 {"key": "csp_xbpq_子子影视","name": "👫子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
@@ -315,8 +316,7 @@
     {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/doujiaow.json"},
     {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/pianba.json"},
     {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/zj883.json"},
-    {"key":"csp_xpath_shiliudy","name":"石榴电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/shiliudy.json"},
-
+    
 
 
     ## M浏览器中APP影视规则支持(AppYsV2)
