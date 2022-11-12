@@ -1,8 +1,8 @@
 {
- "wallpaper": "http://zjgtree.cf:5705/pics",
+ "wallpaper": "http://image.qianye88.com/pic/2f8781f9a72a13c8f8dd55bcc889c59f",
  "dr_count": 121,
  "mode": 2,
- "spider": "http://zjgtree.cf:5705/files/custom_spider.jar",
+ "spider": "https://agit.ai/guozu616/TVbox/raw/branch/main/jar/custom_spider.jar",
  "drives": [
   {
    "name": "🦀9T(Adult)",
