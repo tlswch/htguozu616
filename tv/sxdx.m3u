@@ -1,551 +1,95 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,http://111.20.43.95:29010/tagNewestEpgList/SAXYD_ZX/1/100/0.json" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 ,陕西1套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.2:9120
-#EXTINF:-1 ,陕西2套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.3:9128
-#EXTINF:-1 ,陕西3套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.4:9136
-#EXTINF:-1 ,陕西4套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.5:9144
-#EXTINF:-1 ,陕西5套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.6:9152
-#EXTINF:-1 ,陕西6套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.7:9160
-#EXTINF:-1 ,陕西7套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.8:9168
-#EXTINF:-1 ,CCTV1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.9:8000
-#EXTINF:-1 ,CCTV2
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.10:8008
-#EXTINF:-1 ,CCTV4
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.11:8016
-#EXTINF:-1 ,CCTV7
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.12:8024
-#EXTINF:-1 ,CCTVNEWS
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.13:8032
-#EXTINF:-1 ,CCTV10
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.14:8040
-#EXTINF:-1 ,CCTV11
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.15:8048
-#EXTINF:-1 ,CCTV12
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.16:8056
-#EXTINF:-1 ,CCTV新闻
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.17:8064
-#EXTINF:-1 ,CCTV少儿
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.18:8072
-#EXTINF:-1 ,CCTV音乐
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.19:8080
-#EXTINF:-1 ,北京卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.20:8088
-#EXTINF:-1 ,东方卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.21:8096
-#EXTINF:-1 ,江苏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.22:8104
-#EXTINF:-1 ,浙江卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.23:8112
-#EXTINF:-1 ,安徽卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.24:8120
-#EXTINF:-1 ,山东卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.25:8128
-#EXTINF:-1 ,山西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.26:8136
-#EXTINF:-1 ,湖南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.27:8144
-#EXTINF:-1 ,湖北卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.28:8152
-#EXTINF:-1 ,江西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.29:8160
-#EXTINF:-1 ,重庆卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.30:8168
-#EXTINF:-1 ,四川卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.31:8176
-#EXTINF:-1 ,河南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.32:8184
-#EXTINF:-1 ,天津卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.33:8192
-#EXTINF:-1 ,辽宁卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.34:8200
-#EXTINF:-1 ,吉林卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.35:8208
-#EXTINF:-1 ,黑龙江卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.36:8216
-#EXTINF:-1 ,东南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.37:8224
-#EXTINF:-1 ,广东卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.38:8232
-#EXTINF:-1 ,广西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.39:8240
-#EXTINF:-1 ,贵州卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.40:8248
-#EXTINF:-1 ,海南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.41:8256
-#EXTINF:-1 ,金鹰卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.42:8272
-#EXTINF:-1 ,深圳卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.43:8280
-#EXTINF:-1 ,青海卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.44:8288
-#EXTINF:-1 ,西藏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.45:8296
-#EXTINF:-1 ,内蒙古卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.46:8304
-#EXTINF:-1 ,中国教育1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.47:8312
-#EXTINF:-1 ,中国教育2
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.48:8320
-#EXTINF:-1 ,中国教育4
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.49:8328
-#EXTINF:-1 ,SiTV都市剧场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.50:8336
-#EXTINF:-1 ,欢笑剧场高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.51:8344
-#EXTINF:-1 ,上海纪实高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.52:8352
+#EXTINF:-1 ,CCTV电视指南[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.76:5140
 #EXTINF:-1 ,爱上4K
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.53:8360
-#EXTINF:-1 ,SiTV生活时尚
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.55:8376
-#EXTINF:-1 ,SiTV乐游
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.56:8384
-#EXTINF:-1 ,SiTV法治天地
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.57:8392
-#EXTINF:-1 ,东方财经
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.58:8400
-#EXTINF:-1 ,金鹰纪实高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.59:8408
-#EXTINF:-1 ,七彩戏剧
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.60:8416
-#EXTINF:-1 ,SiTV动漫秀场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.61:8424
-#EXTINF:-1 ,SiTV游戏风云
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.62:8432
-#EXTINF:-1 ,华阴1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.63:8440
-#EXTINF:-1 ,CCTV-1(服务名称极速汽车)
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.64:8448
-#EXTINF:-1 ,SiTV金色学堂
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.65:8456
-#EXTINF:-1 ,陕西卫视高清测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.66:8464
-#EXTINF:-1 ,CCTV-1（服务名称安康镇坪）
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.67:8472
-#EXTINF:-1 ,商洛-1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.69:8488
-#EXTINF:-1 ,重庆卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.70:8496
-#EXTINF:-1 ,富平TV
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.71:8504
-#EXTINF:-1 ,韩城综合
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.72:8512
-#EXTINF:-1 ,CCTV3
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.73:8520
-#EXTINF:-1 ,紫阳新闻
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.74:8528
-#EXTINF:-1 ,央广购物
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.75:8536
-#EXTINF:-1 ,澄城新闻
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.76:8544
-#EXTINF:-1 ,都市剧场高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.77:8552
-#EXTINF:-1 ,教育1高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.78:8560
-#EXTINF:-1 ,CCTV3高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.79:8568
-#EXTINF:-1 ,CCTV5高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.80:8576
-#EXTINF:-1 ,CCTV17
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.81:8584
-#EXTINF:-1 ,CCTV6
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.83:8600
-#EXTINF:-1 ,CCTV6高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.84:8608
-#EXTINF:-1 ,安徽家家购物
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.85:8616
-#EXTINF:-1 ,兵团卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.86:8624
-#EXTINF:-1 ,白水1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.87:8632
-#EXTINF:-1 ,CCTV17高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.88:8640
-#EXTINF:-1 ,CCTV8高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.90:8656
-#EXTINF:-1 ,山东教育
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.91:8664
-#EXTINF:-1 ,合阳
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.92:8672
-#EXTINF:-1 ,华州综合频道
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.93:8680
-#EXTINF:-1 ,财富天下
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.94:8688
-#EXTINF:-1 ,江西卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.96:8704
-#EXTINF:-1 ,CHC高清电影高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.97:8712
-#EXTINF:-1 ,优购物
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.101:8744
-#EXTINF:-1 ,CCTV11高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.102:8752
-#EXTINF:-1 ,CCTV15高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.103:8760
-#EXTINF:-1 ,安康1综合
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.104:8768
-#EXTINF:-1 ,CHC家庭影院高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.104:8768
-#EXTINF:-1 ,CCTV2高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.106:8784
-#EXTINF:-1 ,陕西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.107:8792
-#EXTINF:-1 ,直播室201
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.108:8800
-#EXTINF:-1 ,直播室202
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.109:8808
-#EXTINF:-1 ,直播室203
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.110:8816
-#EXTINF:-1 ,直播室204
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.111:8824
-#EXTINF:-1 ,直播室205
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.112:8832
-#EXTINF:-1 ,直播室206
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.113:8840
-#EXTINF:-1 ,直播室207
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.114:8848
-#EXTINF:-1 ,吉林卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.115:8856
 #EXTINF:-1 ,CCTV1高清
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.118:8880
-#EXTINF:-1 ,江苏卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.119:8368
-#EXTINF:-1 ,浙江卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.120:8896
-#EXTINF:-1 ,东方卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.121:8904
-#EXTINF:-1 ,卡酷卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.124:8928
-#EXTINF:-1 ,甘肃卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.125:8936
-#EXTINF:-1 ,宁夏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.126:8944
-#EXTINF:-1 ,西安1套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.130:8976
-#EXTINF:-1 ,西安2套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.131:8984
-#EXTINF:-1 ,贵州卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.139:9024
-#EXTINF:-1 ,河南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.140:9026
-#EXTINF:-1 ,CCTV8
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.141:9028
-#EXTINF:-1 ,嘉佳卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.150:9078
-#EXTINF:-1 ,全纪实高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.156:9102
-#EXTINF:-1 ,河北卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.158:9106
+#EXTINF:-1 ,CCTV-1高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.59:5140
+#EXTINF:-1 ,CCTV2高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.106:8784
+#EXTINF:-1 ,CCTV-2高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.78:5140
+#EXTINF:-1 ,CCTV3高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.79:8568
+#EXTINF:-1 ,CCTV-3高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.221:5140
 #EXTINF:-1 ,CCTV4高清
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.159:9108
-#EXTINF:-1 ,北京卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.162:8898
-#EXTINF:-1 ,湖南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.163:9002
-#EXTINF:-1 ,湖北卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.165:9006
-#EXTINF:-1 ,直播室101
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.170:9612
-#EXTINF:-1 ,直播室102
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.171:9614
-#EXTINF:-1 ,直播室103
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.172:9616
-#EXTINF:-1 ,直播室104
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.173:9618
-#EXTINF:-1 ,直播室105
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.174:9620
-#EXTINF:-1 ,直播室106
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.175:9622
-#EXTINF:-1 ,直播室107
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.176:9624
-#EXTINF:-1 ,东南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.177:9626
-#EXTINF:-1 ,广东卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.188:9610
-#EXTINF:-1 ,深圳卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.189:9602
-#EXTINF:-1 ,黑龙江卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.190:9604
-#EXTINF:-1 ,山东卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.191:9606
-#EXTINF:-1 ,圆点生活高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.192:9608
-#EXTINF:-1 ,铜川-1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.194:9638
-#EXTINF:-1 ,游戏风云高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.195:9642
-#EXTINF:-1 ,IPTV 3
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.197:9650
-#EXTINF:-1 ,IPTV 6
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.198:9654
-#EXTINF:-1 ,IPTV 8
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.199:9658
-#EXTINF:-1 ,IPTV 5
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.211:9184
-#EXTINF:-1 ,IPTV相声小品
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.212:9192
+#EXTINF:-1 ,CCTV-4高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.202:5140
+#EXTINF:-1 ,CCTV5高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.80:8576
+#EXTINF:-1 ,CCTV-5高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.222:5140
 #EXTINF:-1 ,CCTV5+高清
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.214:9208
-#EXTINF:-1 ,纪实人文
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.215:9216
-#EXTINF:-1 ,IPTV5高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.216:9702
-#EXTINF:-1 ,陕西8套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.217:9706
-#EXTINF:-1 ,直播室108
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.219:9714
-#EXTINF:-1 ,直播室109
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.220:9718
-#EXTINF:-1 ,直播室110
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.221:9722
-#EXTINF:-1 ,直播室111
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.222:9726
-#EXTINF:-1 ,直播室208
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.223:9730
-#EXTINF:-1 ,直播室209
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.224:9734
-#EXTINF:-1 ,直播室210
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.225:9738
-#EXTINF:-1 ,直播室211
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.226:9742
-#EXTINF:-1 ,CCTV9
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.1:9750
-#EXTINF:-1 ,CHC动作电影高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.6:9770
-#EXTINF:-1 ,CCTV7高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.7:9774
-#EXTINF:-1 ,CCTV9高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.8:9778
-#EXTINF:-1 ,CCTV10高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.9:9782
-#EXTINF:-1 ,CCTV12高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.10:9786
-#EXTINF:-1 ,安徽卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.11:9790
-#EXTINF:-1 ,辽宁卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.12:9794
-#EXTINF:-1 ,新疆卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.13:9798
-#EXTINF:-1 ,河北卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.14:9802
-#EXTINF:-1 ,云南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.15:9806
-#EXTINF:-1 ,高网
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.16:9810
-#EXTINF:-1 ,优漫卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.17:9814
-#EXTINF:-1 ,四川卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.18:9818
-#EXTINF:-1 ,CCTV14高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.20:9826
-#EXTINF:-1 ,厦门卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.21:9830
-#EXTINF:-1 ,台球
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.22:9834
-#EXTINF:-1 ,天津卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.23:9838
-#EXTINF:-1 ,西安教育台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.24:9842
-#EXTINF:-1 ,足球
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.25:9846
-#EXTINF:-1 ,家家购物
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.30:9784
-#EXTINF:-1 ,家有购物
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.31:9788
-#EXTINF:-1 ,聚鲨环球精选
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.34:9800
-#EXTINF:-1 ,欢笑剧场4K
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.36:9850
-#EXTINF:-1 ,渭南新闻综合
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.37:9854
-#EXTINF:-1 ,西安3套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.38:9858
-#EXTINF:-1 ,西安4套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.39:9862
-#EXTINF:-1 ,丝路频道
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.40:9866
-#EXTINF:-1 ,陕视直播
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.41:9874
-#EXTINF:-1 ,榆林1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.42:9882
-#EXTINF:-1 ,西教二台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.47:9914
-#EXTINF:-1 ,西教三台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.48:9918
-#EXTINF:-1 ,彬洲TV
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.49:9922
-#EXTINF:-1 ,略阳TV1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.50:9926
-#EXTINF:-1 ,陕视融媒直播
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.52:9934
-#EXTINF:-1 ,勉县综合
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.53:9938
-#EXTINF:-1 ,留坝TV
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.54:9942
-#EXTINF:-1 ,爱生活
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.55:9946
-#EXTINF:-1 ,精选
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.56:9950
-#EXTINF:-1 ,西教一台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.59:9910
-#EXTINF:-1 ,生态环境
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.73:8000
-#EXTINF:-1 ,环球旅游
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.74:8004
-#EXTINF:-1 ,优优宝贝
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.75:8008
-#EXTINF:-1 ,车迷频道
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.76:8012
-#EXTINF:-1 ,圆点影视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.77:8016
-#EXTINF:-1 ,CGTN高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.78:7964
-#EXTINF:-1 ,CGTN西班牙语高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.79:7960
-#EXTINF:-1 ,CGTN法语高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.80:7956
-#EXTINF:-1 ,悦美生活
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.81:7952
-#EXTINF:-1 ,南郑TV-1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.82:7948
-#EXTINF:-1 ,陕西1套高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.83:7944
-#EXTINF:-1 ,陕西2套高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.84:7940
-#EXTINF:-1 ,陕西7套高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.85:7936
-#EXTINF:-1 ,CCTV第一剧场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.86:7932
-#EXTINF:-1 ,CCTV风云剧场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.87:7928
-#EXTINF:-1 ,CCTV怀旧剧场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.88:7924
-#EXTINF:-1 ,CCTV风云足球
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.89:7920
-#EXTINF:-1 ,CCTV风云音乐
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.90:7916
-#EXTINF:-1 ,CCTV央视台球
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.91:7912
-#EXTINF:-1 ,CCTV世界地理
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.92:7908
-#EXTINF:-1 ,CCTV女性时尚
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.93:7904
-#EXTINF:-1 ,CCTV高网
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.94:7900
-#EXTINF:-1 ,CCTV兵器科技
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.95:7896
-#EXTINF:-1 ,欢笑剧场4K测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.1:5140
-#EXTINF:-1 ,都市剧场HD
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.2:5140
-#EXTINF:-1 ,全纪实HD测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.3:5140
-#EXTINF:-1 ,游戏风云HD测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.4:5140
-#EXTINF:-1 ,融媒直播
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.6:5140
-#EXTINF:-1 ,CCTV-1（服务名称悦美生活SD）[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.7:5140
-#EXTINF:-1 ,南郑TV-1[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.8:5140
-#EXTINF:-1 ,CCTV-1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.9:5140
-#EXTINF:-1 ,IPTV5＋
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.10:5140
-#EXTINF:-1 ,IPTV相声小品
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.11:5140
-#EXTINF:-1 ,潼关综合频道[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.12:5140
 #EXTINF:-1 ,CCTV5＋高清
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.13:5140
-#EXTINF:-1 ,纪实人文
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.14:5140
-#EXTINF:-1 ,圆点生活
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.15:5140
-#EXTINF:-1 ,江西卫视高清测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.16:5140
-#EXTINF:-1 ,西乡融媒[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.17:5140
-#EXTINF:-1 ,宁强-1[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.18:5140
-#EXTINF:-1 ,渭南新闻综合[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.19:5140
-#EXTINF:-1 ,直播室101
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.20:5140
-#EXTINF:-1 ,百视通超级体育
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.21:5140
-#EXTINF:-1 ,直播室103
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.22:5140
-#EXTINF:-1 ,直播室104
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.23:5140
-#EXTINF:-1 ,直播室105
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.24:5140
-#EXTINF:-1 ,直播室106
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.25:5140
-#EXTINF:-1 ,直播室107
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.26:5140
-#EXTINF:-1 ,CCTV-1（服务名称安康镇坪）[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.27:5140
-#EXTINF:-1 ,陕西新闻资讯[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.28:5140
-#EXTINF:-1 ,铜川TV-1[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.29:5140
-#EXTINF:-1 ,西安乐购购物[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.30:5140
-#EXTINF:-1 ,麟游TV[1920*1188]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.31:5140
-#EXTINF:-1 ,CGTN[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.32:5140
-#EXTINF:-1 ,CGTN西语[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.33:5140
-#EXTINF:-1 ,CGTN法语[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.34:5140
-#EXTINF:-1 ,陕西卫视[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.35:5140
-#EXTINF:-1 ,陕西新闻休闲[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.36:5140
-#EXTINF:-1 ,湖南快乐购[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.37:5140
-#EXTINF:-1 ,IPTV5＋高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.40:5140
-#EXTINF:-1 ,陕西8套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.41:5140
-#EXTINF:-1 ,陕西都市青春[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.42:5140
-#EXTINF:-1 ,直播室108
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.43:5140
-#EXTINF:-1 ,直播室109
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.44:5140
-#EXTINF:-1 ,直播室110
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.45:5140
-#EXTINF:-1 ,直播室111
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.46:5140
-#EXTINF:-1 ,直播室208
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.47:5140
-#EXTINF:-1 ,直播室209
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.48:5140
-#EXTINF:-1 ,直播室210
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.49:5140
-#EXTINF:-1 ,直播室211
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.50:5140
-#EXTINF:-1 ,三沙卫视[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.52:5140
+#EXTINF:-1 ,CCTV6高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.84:8608
+#EXTINF:-1 ,CCTV-6高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.223:5140
+#EXTINF:-1 ,CCTV7高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.7:9774
+#EXTINF:-1 ,CCTV-7高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.83:5140
+#EXTINF:-1 ,CCTV8高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.90:8656
+#EXTINF:-1 ,CCTV-8高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.224:5140
+#EXTINF:-1 ,CCTV9高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.8:9778
+#EXTINF:-1 ,CCTV-9高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.85:5140
+#EXTINF:-1 ,CCTV10高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.9:9782
+#EXTINF:-1 ,CCTV-10高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.86:5140
+#EXTINF:-1 ,CCTV11高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.102:8752
+#EXTINF:-1 ,CCTV-11高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.213:5140
+#EXTINF:-1 ,CCTV12高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.10:9786
+#EXTINF:-1 ,CCTV-12高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.88:5140
 #EXTINF:-1 ,CCTV-13[1920*1080]
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.53:5140
-#EXTINF:-1 ,生态环境[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.60:5140
-#EXTINF:-1 ,环球旅游[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.61:5140
-#EXTINF:-1 ,优优宝贝[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.62:5140
-#EXTINF:-1 ,车迷频道[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.63:5140
+#EXTINF:-1 ,CCTV14高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.20:9826
+#EXTINF:-1 ,CCTV-14高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.91:5140
+#EXTINF:-1 ,CCTV15高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.103:8760
+#EXTINF:-1 ,CCTV-15高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.214:5140
+#EXTINF:-1 ,CCTV-16[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.133:5140
+#EXTINF:-1 ,CCTV16
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.134:5140
+#EXTINF:-1 ,CCTV17高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.88:8640
+#EXTINF:-1 ,CCTV-17高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.211:5140
+#EXTINF:-1 ,CGTN高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.78:7964
+#EXTINF:-1 ,CGTN[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.32:5140
+#EXTINF:-1 ,CHC动作电影高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.6:9770
+#EXTINF:-1 ,CHC动作电影高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.207:5140
+#EXTINF:-1 ,CHC高清电影高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.97:8712
+#EXTINF:-1 ,CHC高清电影高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.206:5140
+#EXTINF:-1 ,CHC家庭影院高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.104:8768
+#EXTINF:-1 ,CHC家庭影院高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.205:5140
 #EXTINF:-1 ,第一剧场
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.65:5140
 #EXTINF:-1 ,风云剧场
@@ -568,28 +112,130 @@ http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.73:5140
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.74:5140
 #EXTINF:-1 ,央视文化精品
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.75:5140
-#EXTINF:-1 ,CCTV电视指南[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.76:5140
-#EXTINF:-1 ,洋县电视台[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.77:5140
-#EXTINF:-1 ,CCTV-1（服务名称凤凰中文）[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.78:5140
-#EXTINF:-1 ,城固[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.79:5140
-#EXTINF:-1 ,扶风[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.80:5140
-#EXTINF:-1 ,眉县新闻综合[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.81:5140
-#EXTINF:-1 ,CCTV-1（服务名称凤凰资讯）[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.82:5140
-#EXTINF:-1 ,渭南新闻综合[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.94:5140
-#EXTINF:-1 ,CCTV-1（服务名称家有购物HD）[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.95:5140
-#EXTINF:-1 ,中视购物[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.96:5140
-#EXTINF:-1 ,淳化TV[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.97:5140
+#EXTINF:-1 ,IPTV5＋高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.40:5140
+#EXTINF:-1 ,IPTV5高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.216:9702
+#EXTINF:-1 ,安徽卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.11:9790
+#EXTINF:-1 ,安徽卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.72:5140
+#EXTINF:-1 ,北京卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.162:8898
+#EXTINF:-1 ,北京卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.65:5140
+#EXTINF:-1 ,东方卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.121:8904
+#EXTINF:-1 ,东方卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.61:5140
+#EXTINF:-1 ,东南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.177:9626
+#EXTINF:-1 ,东南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.182:5140
+#EXTINF:-1 ,都市剧场高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.77:8552
+#EXTINF:-1 ,广东卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.188:9610
+#EXTINF:-1 ,广东卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.66:5140
+#EXTINF:-1 ,贵州卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.139:9024
+#EXTINF:-1 ,贵州卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.178:5140
+#EXTINF:-1 ,河北卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.158:9106
+#EXTINF:-1 ,河北卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.200:5140
+#EXTINF:-1 ,河南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.140:9026
+#EXTINF:-1 ,河南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.180:5140
+#EXTINF:-1 ,黑龙江卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.190:9604
+#EXTINF:-1 ,黑龙江卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.68:5140
+#EXTINF:-1 ,湖北卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.165:9006
+#EXTINF:-1 ,湖北卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.69:5140
+#EXTINF:-1 ,湖南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.163:9002
+#EXTINF:-1 ,湖南卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.62:5140
+#EXTINF:-1 ,欢笑剧场高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.51:8344
+#EXTINF:-1 ,吉林卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.115:8856
+#EXTINF:-1 ,吉林卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.183:5140
+#EXTINF:-1 ,江苏卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.119:8368
+#EXTINF:-1 ,江苏卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.63:5140
+#EXTINF:-1 ,江西卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.96:8704
+#EXTINF:-1 ,江西卫视高清测试
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.16:5140
+#EXTINF:-1 ,教育1高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.78:8560
+#EXTINF:-1 ,教育1高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.201:5140
+#EXTINF:-1 ,金鹰纪实高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.59:8408
+#EXTINF:-1 ,金鹰纪实高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.203:5140
+#EXTINF:-1 ,辽宁卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.12:9794
+#EXTINF:-1 ,辽宁卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.73:5140
+#EXTINF:-1 ,全纪实高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.156:9102
+#EXTINF:-1 ,山东卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.191:9606
+#EXTINF:-1 ,山东卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.70:5140
+#EXTINF:-1 ,上海纪实高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.52:8352
+#EXTINF:-1 ,上海纪实高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.204:5140
+#EXTINF:-1 ,深圳卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.189:9602
+#EXTINF:-1 ,深圳卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.67:5140
+#EXTINF:-1 ,四川卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.18:9818
+#EXTINF:-1 ,四川卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.184:5140
+#EXTINF:-1 ,天津卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.23:9838
+#EXTINF:-1 ,天津卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.74:5140
+#EXTINF:-1 ,游戏风云高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.195:9642
+#EXTINF:-1 ,圆点导视高清测试
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.237:5140
+#EXTINF:-1 ,圆点生活高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.192:9608
+#EXTINF:-1 ,圆点影视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.77:8016
+#EXTINF:-1 ,浙江卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.120:8896
+#EXTINF:-1 ,浙江卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.64:5140
+#EXTINF:-1 ,重庆卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.70:8496
+#EXTINF:-1 ,重庆卫视高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.179:5140
+#EXTINF:-1 ,陕西卫视高清测试
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.66:8464
+#EXTINF:-1 ,陕西卫视[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.35:5140
+#EXTINF:-1 ,陕西新闻资讯[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.28:5140
+#EXTINF:-1 ,陕西新闻休闲[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.36:5140
+#EXTINF:-1 ,陕西都市青春[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.42:5140
 #EXTINF:-1 ,陕西生活[1920*1080]
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.98:5140
 #EXTINF:-1 ,陕西影视[1920*1080]
@@ -600,34 +246,134 @@ http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.100:5140
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.101:5140
 #EXTINF:-1 ,陕西西部电影[1920*1080]
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.102:5140
-#EXTINF:-1 ,CCTV-16[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.133:5140
-#EXTINF:-1 ,CCTV16
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.134:5140
-#EXTINF:-1 ,中国教育-2
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.168:5140
-#EXTINF:-1 ,CETV-4
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.169:5140
-#EXTINF:-1 ,都市剧场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.171:5140
-#EXTINF:-1 ,生活时尚
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.176:5140
-#EXTINF:-1 ,全纪实
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.177:5140
-#EXTINF:-1 ,法治天地
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.178:5140
-#EXTINF:-1 ,东方财经
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.179:5140
-#EXTINF:-1 ,七彩戏剧
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.181:5140
-#EXTINF:-1 ,动漫秀场
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.182:5140
-#EXTINF:-1 ,游戏风云
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.183:5140
-#EXTINF:-1 ,极速汽车
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.185:5140
-#EXTINF:-1 ,金色频道
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.186:5140
+#EXTINF:-1 ,陕西1套高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.83:7944
+#EXTINF:-1 ,陕西2套高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.84:7940
+#EXTINF:-1 ,陕西7套高清
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.85:7936
+#EXTINF:-1 ,渭南新闻综合[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.19:5140
+#EXTINF:-1 ,洋县电视台[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.77:5140
+#EXTINF:-1 ,城固[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.79:5140
+#EXTINF:-1 ,扶风[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.80:5140
+#EXTINF:-1 ,眉县新闻综合[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.81:5140
+#EXTINF:-1 ,淳化TV[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.97:5140
+#EXTINF:-1 ,凤翔TV[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.244:5140
+#EXTINF:-1 ,陈仓TV[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.245:5140
+#EXTINF:-1 ,岚皋电视台[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.248:5140
+#EXTINF:-1 ,太白电视台[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.251:5140
+#EXTINF:-1 ,陇县1[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.252:5140
+#EXTINF:-1 ,宝鸡1[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.143:5140
+#EXTINF:-1 ,宝鸡2[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.144:5140
+#EXTINF:-1 ,宝鸡1[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.147:5140
+#EXTINF:-1 ,宝鸡2[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.148:5140
+#EXTINF:-1 ,商洛-1[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.189:5140
+#EXTINF:-1 ,紫阳综合[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.220:5140
+#EXTINF:-1 ,佛坪电视台[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.229:5140
+#EXTINF:-1 ,镇巴电视台[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.231:5140
+#EXTINF:-1 ,留坝[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.240:5140
+#EXTINF:-1 ,西乡融媒[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.17:5140
+#EXTINF:-1 ,宁强-1[1920*1080]
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.18:5140
+#EXTINF:-1 ,直播室201
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.108:8800
+#EXTINF:-1 ,直播室202
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.109:8808
+#EXTINF:-1 ,直播室203
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.110:8816
+#EXTINF:-1 ,直播室204
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.111:8824
+#EXTINF:-1 ,直播室205
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.112:8832
+#EXTINF:-1 ,直播室206
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.113:8840
+#EXTINF:-1 ,直播室207
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.114:8848
+#EXTINF:-1 ,直播室101
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.170:9612
+#EXTINF:-1 ,直播室102
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.171:9614
+#EXTINF:-1 ,直播室103
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.172:9616
+#EXTINF:-1 ,直播室104
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.173:9618
+#EXTINF:-1 ,直播室105
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.174:9620
+#EXTINF:-1 ,直播室106
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.175:9622
+#EXTINF:-1 ,直播室107
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.176:9624
+#EXTINF:-1 ,直播室108
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.219:9714
+#EXTINF:-1 ,直播室109
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.220:9718
+#EXTINF:-1 ,直播室110
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.221:9722
+#EXTINF:-1 ,直播室111
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.222:9726
+#EXTINF:-1 ,直播室208
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.223:9730
+#EXTINF:-1 ,直播室209
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.224:9734
+#EXTINF:-1 ,直播室210
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.225:9738
+#EXTINF:-1 ,直播室211
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.109.205.226:9742
+#EXTINF:-1 ,陕视直播
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.41:9874
+#EXTINF:-1 ,陕视融媒直播
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.110.205.52:9934
+#EXTINF:-1 ,融媒直播
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.6:5140
+#EXTINF:-1 ,直播室101
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.20:5140
+#EXTINF:-1 ,直播室103
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.22:5140
+#EXTINF:-1 ,直播室104
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.23:5140
+#EXTINF:-1 ,直播室105
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.24:5140
+#EXTINF:-1 ,直播室106
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.25:5140
+#EXTINF:-1 ,直播室107
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.26:5140
+#EXTINF:-1 ,直播室108
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.43:5140
+#EXTINF:-1 ,直播室109
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.44:5140
+#EXTINF:-1 ,直播室110
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.45:5140
+#EXTINF:-1 ,直播室111
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.46:5140
+#EXTINF:-1 ,直播室208
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.47:5140
+#EXTINF:-1 ,直播室209
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.48:5140
+#EXTINF:-1 ,直播室210
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.49:5140
+#EXTINF:-1 ,直播室211
+http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.50:5140
 #EXTINF:-1 ,直播室201
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.199:5140
 #EXTINF:-1 ,直播室202
@@ -642,325 +388,5 @@ http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.203:5140
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.204:5140
 #EXTINF:-1 ,直播室207
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.205:5140
-#EXTINF:-1 ,西安新闻综合[791*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.242:5140
-#EXTINF:-1 ,西安都市频道[791*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.243:5140
-#EXTINF:-1 ,凤翔TV[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.244:5140
-#EXTINF:-1 ,陈仓TV[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.245:5140
-#EXTINF:-1 ,岚皋电视台[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.248:5140
-#EXTINF:-1 ,榆林-2[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.249:5140
-#EXTINF:-1 ,千阳[1920*1188]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.250:5140
-#EXTINF:-1 ,太白电视台[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.251:5140
-#EXTINF:-1 ,陇县1[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.252:5140
-#EXTINF:-1 ,杨凌[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.111.205.253:5140
-#EXTINF:-1 ,CCTV-2
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.2:5140
-#EXTINF:-1 ,CCTV-4
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.4:5140
-#EXTINF:-1 ,CCTV-7
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.7:5140
-#EXTINF:-1 ,CCTV-9
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.9:5140
-#EXTINF:-1 ,CCTV-10
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.10:5140
-#EXTINF:-1 ,CCTV-11
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.11:5140
-#EXTINF:-1 ,CCTV-12
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.12:5140
-#EXTINF:-1 ,CCTV-新闻
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.13:5140
-#EXTINF:-1 ,CGTN
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.14:5140
-#EXTINF:-1 ,CCTV-少儿
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.15:5140
-#EXTINF:-1 ,CCTV-音乐
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.16:5140
-#EXTINF:-1 ,陕西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.17:5140
-#EXTINF:-1 ,陕西1套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.18:5140
-#EXTINF:-1 ,陕西2套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.19:5140
-#EXTINF:-1 ,陕西3套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.20:5140
-#EXTINF:-1 ,陕西4套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.21:5140
-#EXTINF:-1 ,陕西5套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.22:5140
-#EXTINF:-1 ,陕西6套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.23:5140
-#EXTINF:-1 ,陕西7套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.24:5140
-#EXTINF:-1 ,农林卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.27:5140
-#EXTINF:-1 ,东方卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.28:5140
-#EXTINF:-1 ,湖南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.29:5140
-#EXTINF:-1 ,江苏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.30:5140
-#EXTINF:-1 ,浙江卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.31:5140
-#EXTINF:-1 ,北京卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.32:5140
-#EXTINF:-1 ,广东卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.33:5140
-#EXTINF:-1 ,深圳卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.34:5140
-#EXTINF:-1 ,黑龙江卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.35:5140
-#EXTINF:-1 ,湖北卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.36:5140
-#EXTINF:-1 ,山东卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.37:5140
-#EXTINF:-1 ,四川卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.38:5140
-#EXTINF:-1 ,安徽卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.39:5140
-#EXTINF:-1 ,重庆卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.40:5140
-#EXTINF:-1 ,天津卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.41:5140
-#EXTINF:-1 ,东南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.42:5140
-#EXTINF:-1 ,河南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.43:5140
-#EXTINF:-1 ,江西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.44:5140
-#EXTINF:-1 ,吉林卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.45:5140
-#EXTINF:-1 ,山西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.46:5140
-#EXTINF:-1 ,贵州卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.47:5140
-#EXTINF:-1 ,甘肃卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.48:5140
-#EXTINF:-1 ,宁夏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.49:5140
-#EXTINF:-1 ,海南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.50:5140
-#EXTINF:-1 ,广西卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.51:5140
-#EXTINF:-1 ,辽宁卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.52:5140
-#EXTINF:-1 ,青海卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.53:5140
-#EXTINF:-1 ,西藏卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.54:5140
-#EXTINF:-1 ,内蒙古卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.55:5140
-#EXTINF:-1 ,新疆卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.56:5140
-#EXTINF:-1 ,河北卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.57:5140
-#EXTINF:-1 ,云南卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.58:5140
-#EXTINF:-1 ,CCTV-1高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.59:5140
-#EXTINF:-1 ,厦门卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.60:5140
-#EXTINF:-1 ,东方卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.61:5140
-#EXTINF:-1 ,湖南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.62:5140
-#EXTINF:-1 ,江苏卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.63:5140
-#EXTINF:-1 ,浙江卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.64:5140
-#EXTINF:-1 ,北京卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.65:5140
-#EXTINF:-1 ,广东卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.66:5140
-#EXTINF:-1 ,深圳卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.67:5140
-#EXTINF:-1 ,黑龙江卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.68:5140
-#EXTINF:-1 ,湖北卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.69:5140
-#EXTINF:-1 ,山东卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.70:5140
-#EXTINF:-1 ,安徽卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.72:5140
-#EXTINF:-1 ,辽宁卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.73:5140
-#EXTINF:-1 ,天津卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.74:5140
-#EXTINF:-1 ,CCTV-2高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.78:5140
-#EXTINF:-1 ,CCTV-7高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.83:5140
-#EXTINF:-1 ,CCTV-9高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.85:5140
-#EXTINF:-1 ,CCTV-10高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.86:5140
-#EXTINF:-1 ,CCTV-12高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.88:5140
-#EXTINF:-1 ,高网
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.90:5140
-#EXTINF:-1 ,CCTV-14高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.91:5140
-#EXTINF:-1 ,IPTV3＋
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.116:5140
-#EXTINF:-1 ,IPTV6＋
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.118:5140
-#EXTINF:-1 ,IPTV8＋
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.119:5140
-#EXTINF:-1 ,足球轮播
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.127:5140
-#EXTINF:-1 ,嘉佳卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.135:5140
-#EXTINF:-1 ,金鹰卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.136:5140
-#EXTINF:-1 ,中国教育-1
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.137:5140
-#EXTINF:-1 ,卡酷动画
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.138:5140
-#EXTINF:-1 ,咸阳综合[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.141:5140
-#EXTINF:-1 ,西安教育电视台[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.142:5140
-#EXTINF:-1 ,宝鸡1[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.143:5140
-#EXTINF:-1 ,宝鸡2[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.144:5140
-#EXTINF:-1 ,宝鸡1[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.147:5140
-#EXTINF:-1 ,宝鸡2[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.148:5140
-#EXTINF:-1 ,北京家有购物[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.155:5140
-#EXTINF:-1 ,聚鲨环球精选[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.158:5140
-#EXTINF:-1 ,韩城综合[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.166:5140
-#EXTINF:-1 ,兴平融媒[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.168:5140
-#EXTINF:-1 ,延安-1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.169:5140
-#EXTINF:-1 ,西安商务资讯[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.174:5140
-#EXTINF:-1 ,西安影视频道[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.175:5140
-#EXTINF:-1 ,西安丝路频道[785*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.176:5140
-#EXTINF:-1 ,榆林-1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.177:5140
-#EXTINF:-1 ,贵州卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.178:5140
-#EXTINF:-1 ,重庆卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.179:5140
-#EXTINF:-1 ,河南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.180:5140
-#EXTINF:-1 ,彬洲TV[1024*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.181:5140
-#EXTINF:-1 ,东南卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.182:5140
-#EXTINF:-1 ,吉林卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.183:5140
-#EXTINF:-1 ,四川卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.184:5140
-#EXTINF:-1 ,优漫卡通
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.185:5140
-#EXTINF:-1 ,爱上4K
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.186:5140
-#EXTINF:-1 ,富平TV-1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.188:5140
-#EXTINF:-1 ,商洛-1[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.189:5140
-#EXTINF:-1 ,合阳[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.190:5140
-#EXTINF:-1 ,澄城新闻频道[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.191:5140
-#EXTINF:-1 ,华州综合频道[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.192:5140
-#EXTINF:-1 ,华阴1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.193:5140
-#EXTINF:-1 ,蒲城综合[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.194:5140
-#EXTINF:-1 ,财富天下
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.196:5140
-#EXTINF:-1 ,兵团卫视
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.198:5140
-#EXTINF:-1 ,河北卫视高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.200:5140
-#EXTINF:-1 ,教育1高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.201:5140
-#EXTINF:-1 ,CCTV-4高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.202:5140
-#EXTINF:-1 ,金鹰纪实高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.203:5140
-#EXTINF:-1 ,上海纪实高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.204:5140
-#EXTINF:-1 ,CHC家庭影院高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.205:5140
-#EXTINF:-1 ,CHC高清电影高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.206:5140
-#EXTINF:-1 ,CHC动作电影高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.207:5140
-#EXTINF:-1 ,央广购物[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.208:5140
-#EXTINF:-1 ,山西优购物[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.209:5140
-#EXTINF:-1 ,CCTV-17
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.210:5140
-#EXTINF:-1 ,CCTV-17高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.211:5140
-#EXTINF:-1 ,CCTV-11高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.213:5140
-#EXTINF:-1 ,CCTV-15高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.214:5140
-#EXTINF:-1 ,汉中-1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.215:5140
-#EXTINF:-1 ,安康1套
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.216:5140
 #EXTINF:-1 ,陕视直播
 http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.217:5140
-#EXTINF:-1 ,白水1[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.219:5140
-#EXTINF:-1 ,紫阳综合[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.220:5140
-#EXTINF:-1 ,CCTV-3高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.221:5140
-#EXTINF:-1 ,CCTV-5高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.222:5140
-#EXTINF:-1 ,CCTV-6高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.223:5140
-#EXTINF:-1 ,CCTV-8高清
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.224:5140
-#EXTINF:-1 ,CCTV-3
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.225:5140
-#EXTINF:-1 ,CCTV-5
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.226:5140
-#EXTINF:-1 ,CCTV-6
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.227:5140
-#EXTINF:-1 ,CCTV-8
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.228:5140
-#EXTINF:-1 ,佛坪电视台[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.229:5140
-#EXTINF:-1 ,镇巴电视台[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.231:5140
-#EXTINF:-1 ,爱生活
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.234:5140
-#EXTINF:-1 ,略阳TV-1[720*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.235:5140
-#EXTINF:-1 ,欢笑剧场HD
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.236:5140
-#EXTINF:-1 ,圆点导视高清测试
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.237:5140
-#EXTINF:-1 ,勉县综合[768*576]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.239:5140
-#EXTINF:-1 ,留坝[1920*1080]
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.240:5140
-#EXTINF:-1 ,西教三台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.241:5140
-#EXTINF:-1 ,西教二台
-http://sxhfwf.myqnapcloud.cn:8888/udp/239.112.205.242:5140
